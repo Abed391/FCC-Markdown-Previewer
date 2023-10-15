@@ -1,10 +1,6 @@
 import { useState } from 'react';
 import './App.css';
 import ReactMarkdown from "react-markdown"; 
-import React from 'react';
-
-// Your React component code here
-
 
 // Import ReactMarkdown from 'react-markdown'
 const defaultMarkdown = `
